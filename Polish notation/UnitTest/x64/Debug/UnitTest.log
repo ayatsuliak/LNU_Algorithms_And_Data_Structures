@@ -1,0 +1,3 @@
+﻿  UnitTest.cpp
+D:\Алгоритми та структури\Polish notation\Polish notation\PolishNotation.cpp(42): warning C4715: 'Priority': not all control paths return a value
+  UnitTest.vcxproj -> D:\Алгоритми та структури\Polish notation\x64\Debug\UnitTest.dll

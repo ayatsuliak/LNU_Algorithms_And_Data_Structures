@@ -1,0 +1,3 @@
+﻿  Set.cpp
+D:\Алгоритми та структури\Set\Set\Set.cpp(20,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  Set.vcxproj -> D:\Алгоритми та структури\Set\x64\Debug\Set.exe
